@@ -1,0 +1,258 @@
+---
+edition: "035"
+pubdate: "oct 6th 2013"
+edito:
+  "There is plenty of links again this week. Enjoy."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Radius Raid
+    url: "http://js13kgames.com/entries/radius-raid"
+    comment: "A 13k javascript asteroid-like game."
+
+  - title: Better than kitten
+    url: "http://www.betterthankittens.com/"
+    comment: "Designers compete against kittens."
+
+  - title: Lego Calendar syncs with Google Calendar
+    url: "http://www.creativeapplications.net/objects/lego-calendar-by-vitamins-design-syncs-with-google-calendar/"
+    comment: "Any excuse is good to avoid letting go the kid in you."
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: "Static Site Generators"
+    url: "http://staticsitegenerators.net/"
+    comment: "A list of 174 site generators in various languages."
+    tags:
+      - web
+
+  - title: "Usability Hub"
+    url: "https://usabilityhub.com/"
+    comment: "Test your designs and mockups on real people."
+    tags:
+      - tool
+
+  - title: "The Code Player"
+    url: "http://thecodeplayer.com/"
+    comment: "Video style walkthroughs showing cool stuff being created from scratch."
+    tags:
+      - html5
+
+  - title: "Tessel"
+    url: "http://tessel.io/"
+    comment: "Yet another micro-board for web devs, only in pre-order now."
+    tags:
+      - tool
+
+  - title: "Apigee"
+    url: "https://apigee.com/console/others"
+    comment: "This API console looks a bit like the Postman chrome extension but lists a bunch of providers."
+    tags:
+      - tool
+
+  - title: "NodeTime"
+    url: "http://nodetime.com/"
+    comment: "Analytics tool for Nodejs."
+    tags:
+      - js
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Rubinius 2.0
+    url: "http://rubini.us/2013/10/04/rubinius-2-0-released/"
+    comment: "With focus of compatibility with ruby 2.1, this major release helps ruby to compete with full threaded other languages."
+    tags:
+      - rb
+
+  - title: Regularity
+    url: "https://github.com/andrewberls/regularity"
+    comment: "Human readable Regex."
+    tags:
+      - rb
+
+  - title: Polymaps
+    url: "http://polymaps.org/"
+    comment: "A JavaScript library for image- and vector-tiled maps using SVG."
+    tags:
+      - js
+
+  - title: Google web designer
+    url: "http://www.google.com/webdesigner/"
+    comment: "An editor for HTML5-based designs and motion graphics that can run on any device."
+    tags:
+      - html5
+
+  - title: Absurd.js
+    url: "https://github.com/krasimir/absurd"
+    comment: "Writing your CSS in JavaScript, and skip the css preprocessing."
+    tags:
+      - js
+
+  - title: Faye 1.0
+    url: "http://blog.jcoglan.com/2013/10/01/announcing-faye-1-0/"
+    comment: "A big release is all about stability for this ruby and node pubsub/websocket server."
+    tags:
+      - rb
+
+  - title: Negative Captcha
+    url: "https://github.com/subwindow/negative-captcha"
+    comment: "A plugin to make the process of creating a negative captcha in Rails much less painful."
+    tags:
+      - rb
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "Custom animated checkbox inputs using CSS and iconfonts"
+    url: "http://thecodeplayer.com/walkthrough/custom-animated-checkbox-inputs-using-css-iconfonts"
+    comment: "A great walkthrough for nice looking checkboxes."
+    tags:
+      - css3
+
+  - title: "11 Steps To Make Your RSpec Specs Awesome"
+    url: "http://tech.ftbpro.com/post/62631065020/11-steps-to-make-your-rspec-specs-awesome"
+    pubdate: sep 29
+    comment: "Advises for a better use of rspec and testing."
+    tags:
+      - rb
+
+  - title: "Serving ruby gems, the paranoid way"
+    url: "http://blog.gemnasium.com/post/62702069261/serving-ruby-gems-the-paranoid-way"
+    pubdate: sep 30
+    comment: "How to setup your own gem server."
+    tags:
+      - rb
+
+  - title: "Using papertrail to find weird problems"
+    url: "http://rubyrailsexpert.com/?p=36"
+    pubdate: oct 01
+    comment: "Story of a debugging process using Papertrail gem."
+    tags:
+      - rb
+
+  - title: "Essential Gems When Starting a Ruby on Rails Project"
+    url: "http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project"
+    pubdate: oct 01
+    comment: "A list of gems, most are famous, but maybe you will find a few that you don't know about yet."
+    tags:
+      - rb
+
+  - title: "6 Ways To Remove Pain From Feature Testing In Ruby On Rails"
+    url: "http://rubyrailsexpert.com/?p=36"
+    pubdate: oct 02
+    comment: "Tips about testing with no cucumber."
+    tags:
+      - rb
+
+  - title: "High-Speed Rails Deploys With Git"
+    url: "http://blog.codeclimate.com/blog/2013/10/02/high-speed-rails-deploys-with-git/"
+    pubdate: oct 02
+    comment: "Deploying in 5 seconds with simpler, faster Capistrano tasks."
+    tags:
+      - rb
+
+  - title: "Ultimate guide to learning AngularJS in one day"
+    url: "http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/"
+    pubdate: oct 02
+    comment: "An interactive introduction to angular using embeded jsfiddles."
+    tags:
+      - js
+
+  - title: "How to design useful monitoring graphs and visualizations"
+    url: "https://blog.serverdensity.com/how-to-design-useful-monitoring-graphs-and-visualizations/"
+    pubdate: oct 04
+    comment: "A great review about how to design monitoring graphs."
+    tags:
+      - tool
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "How to Design Great APIs"
+    url: "http://blog.parse.com/2013/10/02/parse-developer-day-video-series-how-to-design-great-apis/"
+    comment: "A talk from Parse developer day, on what makes an API great by using emotion."
+    pubdate: oct 02
+    duration: 32m
+    tags:
+      - web
+
+  - title: "A Little Graph Theory for the Busy Developer"
+    url: "http://www.infoq.com/presentations/graph-database-theory"
+    comment: "Very good introduction to graphs for data storage, with video sync with slides and Dr Who graph."
+    pubdate: oct 03
+    duration: 43m
+    tags:
+      - tool
+
+  - title: "What Every Hipster Should Know About Functional Programming"
+    url: "http://vimeo.com/76159530"
+    comment: "This is the War of the Hipsters. Arm yourself now, before it goes mainstream.."
+    pubdate: oct 04
+    duration: 43m
+    tags:
+      - tool
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: Ruby5 406
+    url: http://ruby5.envylabs.com/episodes/442-episode-406-september-27th-2013
+    duration: 5m
+    pubdate: sep 27
+    comment: "Lambdas, rocker-box, snowden, canada Gem, community future, DCamp."
+    tags:
+      - rb
+
+  - title: "Giant robots 68"
+    url: https://learn.thoughtbot.com/giantrobots/68
+    duration: 34m
+    pubdate: sep 30
+    comment: "With Paul Farnell, CEO of Litmus, talk about starting up, business practices, and Litmus."
+    tags:
+      - rb
+
+  - title: Ruby5 407
+    url: http://ruby5.envylabs.com/episodes/443-episode-407-october-1st-2013
+    duration: 7m
+    pubdate: oct 01
+    comment: "ruby 2.1, tmux, closures, gem config, executable ruby app, git branching model, CI sphero."
+    tags:
+      - rb
+
+  - title: RubyRogues 125
+    url: http://rubyrogues.com/125-rr-loyalty-and-layoffs/
+    duration: 1h26
+    pubdate: oct 01
+    comment: "Loyalty and Layoffs. Trust, Career and Corporations."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 078
+    url: http://javascriptjabber.com/078-jsj-working-from-home/
+    duration: 58m
+    pubdate: oct 04
+    comment: "Working From Home."
+    tags:
+      - js
+
+  - title: TheChangelog 106
+    url: http://5by5.tv/changelog/106
+    duration: 41m
+    pubdate: oct 05
+    comment: "Semantic UI with Jack Lukic."
+    tags:
+      - css3
+

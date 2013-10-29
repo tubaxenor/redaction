@@ -1,0 +1,210 @@
+---
+edition: "036"
+pubdate: "oct 14th 2013"
+edito:
+  "The registration for this year Rails Runble <a href=\"http://blog.railsrumble.com/2013/10/07/registration-has-opened/\">has opened</a> on oct 07 and ended yesterday. But you can follow the fun that begins next weekend (oct 19). For the rest, I'm looking for a icon for devops topic. Feels free to send suggestions."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Mac Paint Online
+    url: "http://www.cloudpaint.com/client/"
+    comment: "For the nostalgic."
+
+  - title: Full Screen Mario
+    url: "http://www.fullscreenmario.com/"
+    comment: "An HTML5 remake of the original super mario, again for nostalgy sake."
+
+  - title: The big list of D3
+    url: "http://christopheviau.com/d3list/gallery.html"
+    comment: "1900 examples of good (or not) D3 visualization."
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: "Friend Code"
+    url: "https://friendco.de"
+    comment: "Yet another online collaboration coding tool."
+    tags:
+      - tool
+
+  - title: "StackEdit"
+    url: "http://benweet.github.io/stackedit/"
+    comment: "An online markdown editor."
+    tags:
+      - tool
+
+  - title: "Reportr"
+    url: "http://www.reportr.io/"
+    comment: "A personal tracker, can also be downloaded and installed at home."
+    tags:
+      - web
+
+  - title: "Puppet Best Practices"
+    url: "http://www.puppetbestpractices.com/"
+    comment: "Result of a discussion at Puppetconf, the community gets organized."
+    tags:
+      - rb
+
+  - title: "Vizalizer"
+    url: "http://vizalizer.co/"
+    comment: "A community service for creating publisjing and sharing infographics."
+    tags:
+      - tool
+
+  - title: "Raml"
+    url: "http://raml.org/"
+    comment: "RESTful API Modeling Language."
+    tags:
+      - rb
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Shrimp
+    url: "https://github.com/adeven/shrimp"
+    comment: "Using phantomJs to generate pdf from url."
+    tags:
+      - js
+
+  - title: Reactive Record
+    url: "https://github.com/twopoint718/reactive_record"
+    comment: "Create model from your existing PostgreSQL database."
+    tags:
+      - rb
+
+  - title: Bitch
+    url: "https://github.com/JacksonGariety/bitch"
+    comment: "A Ruby logger that uses OS X notifications."
+    tags:
+      - rb
+
+  - title: Capistrano 3
+    url: "https://github.com/capistrano/capistrano"
+    comment: "A major release for capistrano, check <a href=\"https://medium.com/p/ba896a142ac\">what changed</a>."
+    tags:
+      - rb
+
+  - title: Free Wall
+    url: "http://vnjs.net/www/project/freewall/"
+    comment: "A jQuery plugin for grid layouts without gaps."
+    tags:
+      - js
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "Making Systems Operable"
+    url: "http://programming.oreilly.com/2013/10/making-systems-operable.html"
+    comment: "About the danger of operation automation, and the need for operable systems."
+    pubdate: oct 07
+    tags:
+      - tool
+
+  - title: "The Rails Testing Pyramid"
+    url: "http://blog.codeclimate.com/blog/2013/10/09/rails-testing-pyramid/"
+    comment: "Another code climate post about balanced test suites for long-term maintainability."
+    pubdate: oct 09
+    tags:
+      - rb
+
+  - title: "State of the Stack: Ruby Edition"
+    url: "http://blog.newrelic.com/2013/10/10/infographic-state-stack-ruby-edition/"
+    comment: "An infographic by new relic about the ruby stack."
+    pubdate: oct 10
+    tags:
+      - rb
+
+  - title: "10 Free Data Visualization Tools"
+    url: "http://www.intelligenthq.com/data-visualization-2/10-free-data-visualization-tools-and-why-data-visualization-is-important/"
+    comment: "... and Why Data Visualization is Important."
+    pubdate: oct 10
+    tags:
+      - tool
+
+  - title: "Good and Bad Technical Debt"
+    url: "http://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt"
+    comment: "A long article about technical debt and how testing helps handling it."
+    pubdate: oct 11
+    tags:
+      - tool
+
+  - title: "API Layer and its responsibilities"
+    url: "http://byterot.blogspot.tw/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html"
+    comment: "If you are putting business logic of your domain in your API Layer, you are doing it wrong."
+    pubdate: oct 12
+    tags:
+      - tool
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Devopsdays 2013 - Tokyo"
+    url: "http://vimeo.com/album/2559722"
+    comment: "A talk from Parse developer day, on what makes an API great by using emotion."
+    pubdate: oct 08
+    duration: 6 videos
+    tags:
+      - tool
+
+  - title: "Jsconf EU 2013"
+    url: "https://www.youtube.com/playlist?list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_"
+    comment: "A lot of good talks from jsconf eu recently published."
+    pubdate: oct
+    duration: 13 videos
+    tags:
+      - js
+
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 69"
+    url: https://learn.thoughtbot.com/giantrobots/69
+    duration: 15m
+    pubdate: oct 07
+    comment: "Ben Orenstein interviews Josh Clayton and Laila Winner on their book, Geocoding on Rails."
+    tags:
+      - rb
+
+  - title: Ruby5 409
+    url: http://ruby5.envylabs.com/episodes/445-episode-409-october-8th-2013
+    duration: 7m
+    pubdate: oct 08
+    comment: "rubinius, mri, jruby, virtus, capistrano woes, ruby on sails."
+    tags:
+      - rb
+
+  - title: RubyRogues 126
+    url: http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/
+    duration: 1h09
+    pubdate: oct 09
+    comment: "Remote Pair Programming with Sam Livingston-Gray."
+    tags:
+      - rb
+
+  - title: Ruby5 410
+    url: http://ruby5.envylabs.com/episodes/446-episode-410-october-11th-2013
+    duration: 6m
+    pubdate: oct 11
+    comment: "Pain free testing, random ruby, reacive record, capistrano v3, wicked, heroku websockets."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 079
+    url: http://javascriptjabber.com/079-jsj-lo-dash-with-john-david-dalton/
+    duration: 1h04
+    pubdate: oct 11
+    comment: "Lo-Dash with John-David Dalton."
+    tags:
+      - js

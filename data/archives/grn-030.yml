@@ -1,0 +1,250 @@
+---
+edition: "030"
+pubdate: "sep 1st 2013"
+edito:
+  "The edito is, this time, totally irrelevant and really pertinent at the same time."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: We are still marching
+    url: "http://www.wearestillmarching.com/landing/"
+    comment: "Photo memorial of the Martin Luther King speech."
+    tags:
+      - web
+
+  - title: Beoplay
+    url: "http://beoplay.com/Products/BeoplayH3"
+    comment: "A nice looking website, with a cool navigation."
+    tags:
+      - web
+
+  - title: Salee blog
+    url: "http://salleedesign.com/photo-stories/"
+    comment: "Great blog with travel photos and you can choose your mustache."
+    tags:
+      - web
+
+  - title: WTF Visualisations
+    url: "http://wtfviz.net/"
+    comment: "Visualisations that make no sense, quite fun."
+    tags:
+      - web
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: Just delete me
+    url: "http://justdelete.me/"
+    comment: "Central place where you can seek for void (and notice what websites don't allow it)."
+    tags:
+      - tool
+
+  - title: Free hand UI kit
+    url: "http://cloudcastlegroup.com/blog/basiliq"
+    comment: "A paper-based UI designer for web and mobile apps."
+    tags:
+      - tool
+
+  - title: GitRep
+    url: "http://gitrep.com/"
+    comment: "A website where you can organize, compare, find similar public repos on github."
+    tags:
+      - tool
+
+  - title: keycodes
+    url: "http://keycodes.atjayjo.com/"
+    comment: "A quick way to get keycodes right."
+    tags:
+      - tool
+
+  - title: Canva
+    url: "https://www.canva.com/"
+    comment: "An online design tool (closed beta, but you can reserve a username and hope for an invite)."
+    tags:
+      - tool
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Yeoman
+    url: "http://yeoman.io/blog/hello-1.0.html"
+    comment: "Version 1.0 is out, check what's new."
+    tags:
+      - js
+
+  - title: Emmet LiveStyle
+    url: "http://livestyle.emmet.io/"
+    comment: "A bi-directionnal CSS editing plugin for chrome/safari and sublimetext."
+    tags:
+      - css3
+
+  - title: Parallax.js
+    url: "http://wagerfield.github.io/parallax/"
+    comment: "A pretty efficient parallaxing js lib."
+    tags:
+      - js
+
+  - title: Device.js
+    url: "https://github.com/matthewhudson/device.js"
+    comment: "Easy way to write Conditional JavaScript & CSS based on device operating system, oeientation and type."
+    tags:
+      - js
+
+  - title: Intention.js
+    url: "http://intentionjs.com/"
+    comment: "A way to write html in a responsive manner."
+    tags:
+      - js
+
+  - title: Nyny
+    url: "http://alisnic.github.io/nyny/"
+    comment: "A very small sinatra clone."
+    tags:
+      - rb
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+
+  - title: "Cookieless cookies"
+    url: http://lucb1e.com/rp/cookielesscookies/
+    comment: "No need for cookies to get tracked, images are enough, explanations (scary)."
+    tags:
+      - web
+
+  - title: "how to protect db credentials for rails app"
+    url: http://shvets.github.io/blog/2013/08/24/how_to_protect_db_credentials_in_rails_app.html
+    pubdate: aug 24
+    comment: "Explanation about the shadow_db_credentials gem."
+    tags:
+      - rb
+
+  - title: "Inside docker"
+    url: http://pnasrat.github.io/2013/08/25/inside-docker-i/
+    pubdate: aug 25
+    comment: "A 3 parts article for understanding docker a bit better (<a href=\"http://pnasrat.github.io/2013/08/25/inside-docker-ii\">part 2</a> and <a href=\"http://pnasrat.github.io/2013/08/26/inside-docker-iii\">part 3</a>)."
+    tags:
+      - rb
+
+  - title: "Functional CSS (FCSS)"
+    url: http://flippinawesome.org/2013/08/26/functional-css-fcss/
+    pubdate: aug 26
+    comment: "Application of the functionnal programming principles to CSS authoring."
+    tags:
+      - css3
+
+  - title: "Roll your own web framework in half an hour"
+    url: http://svs.io/post/59495114366/roll-your-own-web-framework-in-half-an-hour
+    pubdate: aug 27
+    comment: "A demo of usage of ActionDispatch."
+    tags:
+      - rb
+
+  - title: "Rails autoloading"
+    url: http://urbanautomaton.com/blog/2013/08/27/rails-autoloading-hell/
+    pubdate: aug 27
+    comment: "Understand Rails autoloading."
+    tags:
+      - rb
+
+  - title: "The HTML5 progress Element"
+    url: http://css-tricks.com/html5-element/
+    pubdate: aug 28
+    comment: "A long description of the html5 progress bar, and fallbacks."
+    tags:
+      - html5
+
+  - title: "Debugging Modern Web Applications Part 1"
+    url: http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1
+    pubdate: aug 28
+    comment: "A guide for debugging web apps css and js using chrome as an IDE."
+    tags:
+      - tool
+
+  - title: "Using Ruby's Gsub With a Block"
+    url: http://batsov.com/articles/2013/08/30/using-gsub-with-a-block/
+    pubdate: aug 30
+    comment: "Small usage explanation about using block in Ruby gsub method."
+    tags:
+      - rb
+
+  - title: "Russian Doll Caching"
+    url: http://www.sys-con.com/node/2773353
+    pubdate: aug 31
+    comment: "Introduction of Russian Doll Caching in Rails 4."
+    tags:
+      - rb
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Rubyconf India"
+    url: http://confreaks.com/events/rubyconfindia2013
+    duration: 17 videos
+    pubdate: aug 30
+    comment: "The rest of the rubyconf india videos, that just have been published."
+    tags:
+      - rb
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 63"
+    url: https://learn.thoughtbot.com/giantrobots/63
+    duration: 1h
+    pubdate: aug 26
+    comment: "Ben and Chad discuss mentoring, job hunting tips and FAQ."
+    tags:
+      - rb
+
+  - title: "Gitminutes #20"
+    url: http://episodes.gitminutes.com/2013/08/gitminutes-20-mick-wever-on-migrating.html
+    duration: 1h14
+    pubdate: aug 26
+    comment: "With Mick Wever on migrating from subversion to Git."
+    tags:
+      - tool
+
+  - title: Ruby5 398
+    url: http://ruby5.envylabs.com/episodes/434-episode-398-august-27-2013
+    duration: 5m
+    pubdate: aug 27
+    comment: "ruby2, rack zippy, artoo, rails security, minuteman."
+    tags:
+      - rb
+
+  - title: RubyRogues 120
+    url: http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/
+    duration: 1h50
+    pubdate: aug 28
+    comment: "Understanding Computation with Tom Stuart."
+    tags:
+      - rb
+
+  - title: Ruby5 399
+    url: http://ruby5.envylabs.com/episodes/435-episode-399-august-30-2013
+    duration: 6m
+    pubdate: aug 30
+    comment: "confident ruby, rails 4 cheatsheet, quick bundle install, postgis, nyny."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 073
+    url: http://javascriptjabber.com/073-jsj-react-with-pete-hunt-and-jordan-walke/
+    duration: 56m
+    pubdate: aug 30
+    comment: "React with Pete Hunt and Jordan Walke."
+    tags:
+      - js
+

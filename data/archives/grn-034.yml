@@ -1,0 +1,218 @@
+---
+edition: "034"
+pubdate: "sep 29th 2013"
+edito:
+  "A lot of learning links this week. And also a bunch of news, about ruby 2.1, google analytics dropping ie8 support, plus the usual cocktail of links. There is also some non-webdev links related to topics that I just like to spread around, like go or arduino-like toys)."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Rainy day
+    url: "http://maroslaw.github.io/rainyday.js/demo1.html"
+    comment: "cool js effect on water drops."
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: "Feedspot"
+    url: "http://www.feedspot.com/"
+    comment: "Another after-reader RSS collection tool, that I'm currently testing, not bad."
+    tags:
+      - tool
+
+  - title: "Code Wars"
+    url: "http://www.codewars.com/"
+    comment: "Another coder game based on challenges in js, coffee or ruby."
+    tags:
+      - tool
+
+  - title: "Node School"
+    url: "http://nodeschool.io/"
+    comment: "Learn node.js with interactive lessons."
+    tags:
+      - tool
+
+  - title: "Vim Genius"
+    url: "http://www.vimgenius.com/"
+    comment: "A game for improving your vim fluency."
+    tags:
+      - tool
+
+  - title: "Hackify"
+    url: "http://www.hackify.org/"
+    comment: "Stop hacking alone."
+    tags:
+      - tool
+
+  - title: "Bento"
+    url: "http://www.bentobox.io/"
+    comment: "A list of links per category about lerning web development and other related topics."
+    tags:
+      - tool
+
+  - title: "Microduino"
+    url: "http://www.kickstarter.com/projects/microduino/microduino-arduino-in-your-pocket-small-stackable"
+    comment: "This kickstarter project looks amazing, and the hardware is really tiny."
+    tags:
+      - tool
+
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Pace
+    url: "http://github.hubspot.com/pace/docs/welcome/"
+    comment: "Automatic page load progress bar with various options."
+    tags:
+      - js
+
+  - title: Background checker
+    url: "http://www.kennethcachia.com/background-check/"
+    comment: "Change element color depending on background brightness."
+    tags:
+      - js
+
+  - title: Functionnal javascript workshop
+    url: "https://github.com/timoxley/functional-javascript-workshop"
+    comment: "A js tutorial in console mode using <a href=\"https://github.com/rvagg/workshopper\">workshopper</a>."
+    tags:
+      - js
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "A journey in golang package manager"
+    url: http://dev.af83.com/2013/09/14/a-journey-in-golang-package-manager.html
+    pubdate: sep 14
+    comment: "A quick review of Gom, that tries to fix one big weakness of golang."
+    tags:
+      - go
+
+  - title: "Google Analytics drops IE8 support"
+    url: http://analytics.blogspot.tw/2013/09/supporting-modern-browsing-experience.html
+    pubdate: sep 16
+    comment: "This is an amazing move for web developers. IE8 will die fast now. muhahaha."
+    tags:
+      - tool
+
+  - title: "Rails Security Pitfalls"
+    url: http://www.sitepoint.com/rails-security-pitfalls/
+    pubdate: sep 23
+    comment: "A list of common rails security risks and how to take care of them."
+    tags:
+      - rb
+
+  - title: "Throw away Sprockets, use UNIX!"
+    url: http://blog.arkency.com/2013/09/throw-away-sprockets-use-unix/
+    pubdate: sep 23
+    comment: "An interesting alternative to sprockets for precompiling js files using make and cpp."
+    tags:
+      - rb
+
+  - title: "About ruby 2.1"
+    url: http://rkh.im/ruby-2.1
+    pubdate: sep 24
+    comment: "Review of the features for the recently announced 2.1 version of ruby."
+    tags:
+      - rb
+
+  - title: "Create a Multi-user Presentation with Reveal.js"
+    url: http://www.sitepoint.com/create-multi-user-presentation-reveal-js/
+    pubdate: sep 26
+    comment: "A presentation that can be controller by several people at same time."
+    tags:
+      - js
+
+  - title: "Why Your Startup Can’t Find Developers"
+    url: http://www.fastcolabs.com/3018568/why-your-startup-cant-find-developers
+    pubdate: sep 26
+    comment: "A view from Hired on the recruitment for tchnical talents in US."
+    tags:
+      - web
+
+  - title: "Tools for image optimization"
+    url: http://addyosmani.com/blog/image-optimization-tools/
+    pubdate: sep 26
+    comment: "A good review of many options you have to reduce the size of your web and mobile images."
+    tags:
+      - web
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Github Training"
+    url: "http://training.github.com/resources/videos/"
+    comment: "Collection of Git training videos from github."
+    duration: 9 videos
+    tags:
+      - tool
+
+  - title: "Ember 1.0 reusable components"
+    url: "http://www.youtube.com/watch?v=zC7o1YkmkG0"
+    comment: "How to avoid the angry ball of mud in ember by using UI components."
+    duration: 44m
+    pubdate: sep 19
+    tags:
+      - js
+
+  - title: "Perf matters"
+    url: "http://www.youtube.com/watch?v=OPBvdsFi7Ss#8m50s"
+    comment: "Featuring Paul Irish, Colt McAnlis, Jake Archibald, and Paul Lewis about browser perfs."
+    duration: 3h25
+    pubdate: sep 20
+    tags:
+      - html5
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 67"
+    url: https://learn.thoughtbot.com/giantrobots/67
+    duration: 30m
+    pubdate: sep 23
+    comment: "With Hilary Mason about Data Science, Bitly and Cheeseburgers."
+    tags:
+      - rb
+
+  - title: Ruby5 405
+    url: http://ruby5.envylabs.com/episodes/441-episode-405-september-24th-2013
+    duration: 7m
+    pubdate: sep 24
+    comment: "ruby 2.1, in browser rails console, splatting, unix preprocessing, case for cucumber, rake global task."
+    tags:
+      - rb
+
+  - title: RubyRogues 124
+    url: http://rubyrogues.com/124-rr-jruby-with-charlie-nutter/
+    duration: 1h07
+    pubdate: sep 25
+    comment: "JRuby with Charlie Nutter."
+    tags:
+      - rb
+
+  - title: TheChangelog 105
+    url: http://5by5.tv/changelog/105
+    duration: 56m
+    pubdate: sep 26
+    comment: "Ghost blogging platform with John O'Nolan."
+    tags:
+      - js
+
+  - title: Javascript Jabber 077
+    url: http://javascriptjabber.com/077-jsj-monocle-with-alex-maccaw/
+    duration: 50m
+    pubdate: sep 27
+    comment: "Monocle with Alex MacCaw."
+    tags:
+      - js
+

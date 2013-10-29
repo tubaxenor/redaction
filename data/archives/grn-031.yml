@@ -1,0 +1,221 @@
+---
+edition: "031"
+pubdate: "sep 8th 2013"
+edito:
+  "Hey there. Well this new job I got is not letting me much time to work on the automation of this information gathering. But I will keep the weekly publication fluid. This is still a very manual process. If ever you do have interesting fresh links of the week, please consider dropping me a mail! (mose at greenruby.org)"
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Collaborating with a 4-year Old
+    url: "http://busymockingbird.com/2013/08/27/collaborating-with-a-4-year-old/"
+    comment: "Quite cool result of an unusual collaboration."
+
+  - title: Hello Run
+    url: "http://hellorun.helloenjoy.com/"
+    comment: "A webGL simplistic game, pretty fast."
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: Custom Elements
+    url: "http://customelements.io/"
+    comment: "A web components gallery for modern web apps."
+    tags:
+      - web
+
+  - title: Uibox
+    url: "http://www.uibox.in/"
+    comment: "Curated HTML, CSS, JS UI Component collection."
+    tags:
+      - web
+
+  - title: Dimensions
+    url: "http://www.dimensionsapp.com/"
+    comment: "A free tool for designers to quickly test responsive websites."
+    tags:
+      - web
+
+  - title: Favicons cheat sheet
+    url: "https://github.com/audreyr/favicon-cheat-sheet"
+    comment: "Obsessive cheat sheet to favicon sizes/types."
+    tags:
+      - web
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Jekyll 1.2
+    url: "http://jekyllrb.com/news/2013/09/06/jekyll-1-2-0-released/"
+    comment: "Some nice change in that last release from firday."
+    tags:
+      - rb
+
+  - title: Ember 1.0
+    url: "http://emberjs.com/blog/2013/08/31/ember-1-0-released.html"
+    comment: "Final release of Ember finaly is out."
+    tags:
+      - js
+
+  - title: ResponsImg
+    url: "http://etiennetalbot.github.io/responsImg/"
+    comment: "jQuery plugin that turns your img tags into responsive images with retina alternatives."
+    tags:
+      - js
+
+  - title: Perimeter
+    url: "http://github.e-sites.nl/perimeter.js/"
+    comment: "Creates an invisible perimeter around a target element and monitors mouse breaches."
+    tags:
+      - js
+
+  - title: Terminal Keynote
+    url: "https://github.com/fxn/tkn"
+    comment: "A hack for terminal-based talks."
+    tags:
+      - rb
+
+  - title: Favico.js
+    url: "http://lab.ejci.net/favico.js/"
+    comment: "Make a use of your favicon with badges, images or videos."
+    tags:
+      - js
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "Fun with Sass & font icons"
+    url: http://jaydenseric.com/blog/fun-with-sass-and-font-icons
+    pubdate: sep 01
+    comment: "A detailled semantic way to neatly handle css icon fonts."
+    tags:
+      - css3
+
+  - title: "10 Great JavaScript Tools"
+    url: http://designdrizzle.com/10-great-javascript-tools-which-web-developers-shouldnt-miss/
+    pubdate: sep 01
+    comment: "Some tools for js developers."
+    tags:
+      - css3
+
+  - title: "How to Add Fat-Free Social Buttons to Your Pages"
+    url: http://www.sitepoint.com/social-media-button-links/
+    pubdate: sep 02
+    comment: "Those social sharing links can be heavy load unless you use some tricks."
+    tags:
+      - html5
+
+  - title: "6 JavaScript Date Libraries for Developers"
+    url: http://codegeekz.com/6-javascript-date-libraries-for-developers/
+    pubdate: sep 02
+    comment: "Dates are a pain point in js, here are tools to make it smoother."
+    tags:
+      - js
+
+  - title: "Docker.io and Redis in Five Minutes"
+    url: http://java.dzone.com/articles/dockerio-and-redis
+    pubdate: sep 03
+    comment: "A quick install guide for redis in a docker on digitalocean."
+    tags:
+      - tool
+
+  - title: "UIkit, yet another front-end framework"
+    url: http://speckyboy.com/2013/09/03/uikit-a-new-front-end-framework/
+    pubdate: sep 03
+    comment: "This one is pretty complete and could be a bootstrap alternative."
+    tags:
+      - html5
+
+  - title: "Marathon an open source Mesos framework"
+    url: http://gigaom.com/2013/09/04/new-open-source-tech-marathon-wants-to-make-your-data-center-run-like-googles/
+    pubdate: sep 04
+    comment: "This is a cluster management solution that could deserve some attention."
+    tags:
+      - tool
+
+  - title: "The Secret to Rails OO Design"
+    url: http://blog.steveklabnik.com/posts/2011-09-06-the-secret-to-rails-oo-design
+    pubdate: sep 06
+    comment: "A post from Steve Klabnik about the Plain Old Ruby Domain Objects."
+    tags:
+      - rb
+
+  - title: "Better Ruby Presenters"
+    url: http://blog.steveklabnik.com/posts/2011-09-09-better-ruby-presenters
+    pubdate: sep 09
+    comment: "As a follow up of his last post (listed above), this one explains more about presenters."
+    tags:
+      - rb
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "PuppetConf 2013"
+    url: http://puppetlabs.com/resources/puppetconf-2013
+    duration: 69 videos
+    pubdate: sep 05
+    comment: "That's a lot of videos from that conf. Devops will like it."
+    tags:
+      - tool
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 64"
+    url: https://learn.thoughtbot.com/giantrobots/64
+    duration: 36m
+    pubdate: sep 02
+    comment: "Ben talks with Des Traynor about intercom, concise communication. blogging and customer outreach."
+    tags:
+      - rb
+
+  - title: "Gitminutes #20"
+    url: http://episodes.gitminutes.com/2013/09/gitminutes-21-karoline-and-arve-on.html
+    duration: 1h
+    pubdate: sep 02
+    comment: "Karoline and Arve on Using Git in a .Net Shop."
+    tags:
+      - tool
+
+  - title: RubyRogues 121
+    url: http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/
+    duration: 1h16
+    pubdate: sep 04
+    comment: "Consulting vs Product Work with Adam Keys."
+    tags:
+      - rb
+
+  - title: TheChangelog 102
+    url: http://5by5.tv/changelog/102
+    duration: 53m
+    pubdate: sep 06
+    comment: "RVM and Managing Ruby versions with Michal Papis."
+    tags:
+      - rb
+
+  - title: Ruby5 400
+    url: http://ruby5.envylabs.com/episodes/436-episode-400-september-6th-2013
+    duration: 5m
+    pubdate: sep 06
+    comment: "WWTD, stringmaster, localjob, outpost, jekyll yips, peddler."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 074
+    url: http://javascriptjabber.com/074-jsj-grunt-js-with-ben-alman/
+    duration: 1h14
+    pubdate: sep 06
+    comment: "Grunt with Ben Alman."
+    tags:
+      - js
+

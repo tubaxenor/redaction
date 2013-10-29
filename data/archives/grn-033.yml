@@ -1,0 +1,211 @@
+---
+edition: "033"
+pubdate: "sep 22th 2013"
+edito:
+  "The fresh links of the week."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Pauline portfolio
+    url: "http://www.paulineosmont.com/"
+    comment: "Nice horizontal scrolling portfolio."
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: "Web Components Resources"
+    url: "http://ebidel.github.io/webcomponents/"
+    comment: "A list of resources about web components."
+    tags:
+      - web
+
+  - title: "JSFuck"
+    url: "http://www.jsfuck.com/"
+    comment: "A tools that transforms any js in a fucked up mess using only 6 different chars."
+    tags:
+      - js
+
+  - title: "Dploy"
+    url: "http://dploy.io/"
+    comment: "A deployment automation platform by beanstalk, free for opensource."
+    tags:
+      - tool
+
+  - title: "HTTP Flies"
+    url: "http://httpflies.com/"
+    comment: "Complete list of http response code, illustrated."
+    tags:
+      - tool
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Redscript
+    url: "http://redscript.org/"
+    comment: "A Ruby Flavored JavaScript Experiment. Like coffeescript, just more rubyesque."
+    tags:
+      - js
+
+  - title: OJ
+    url: "http://ojjs.org/"
+    comment: "A JavaScript library to build websites with objects. No more html."
+    tags:
+      - js
+
+  - title: Goworker
+    url: "http://www.goworker.org/"
+    comment: "A drop in go replacement for Resque that runs much faster (when there is a lot of tasks)."
+    tags:
+      - go
+
+  - title: Flatdoc
+    url: "http://ricostacruz.com/flatdoc/"
+    comment: "Small js for transforming a markdown doc in a nice documentation web page."
+    tags:
+      - tool
+
+  - title: Phaser
+    url: "http://phaser.io/"
+    comment: "A HTML5 js game framework."
+    tags:
+      - js
+
+  - title: Sidetiq
+    url: "https://github.com/tobiassvn/sidetiq"
+    comment: "Recurring jobs for sidekiq."
+    tags:
+      - rb
+
+  - title: Together.js
+    url: "https://togetherjs.com/"
+    comment: "An interesting tool by Mozilla so that website visitors can interact with each others."
+    tags:
+      - js
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "Go Object Oriented Design"
+    url: http://nathany.com/good/
+    pubdate: sep 16
+    comment: "Composition not inheritance, polymorphism through interfaces, and packages for namespacing."
+    tags:
+      - go
+
+  - title: "Ruby Tips Part 2"
+    url: http://globaldev.co.uk/2013/09/ruby-tips-part-2/
+    pubdate: sep 16
+    comment: "Destructuring, conversion methods, in a serie of ruby tips posts."
+    tags:
+      - rb
+
+  - title: "Frameworkless JavaScript"
+    url: https://moot.it/blog/technology/frameworkless-javascript.html
+    pubdate: sep 17
+    comment: "An argument why js framework are not fit for all jobs."
+    tags:
+      - js
+
+  - title: "Rails debug in the browser"
+    url: http://thechangelog.com/view-rails-debug-messages-browser-console-rconsole/
+    pubdate: sep 18
+    comment: "View Rails debug messages in the browser console with Rconsole."
+    tags:
+      - rb
+
+  - title: "Github For Everything"
+    url: http://wiredcraft.com/posts/2013/09/18/github-for-everything.html
+    pubdate: sep 18
+    comment: "Using github for everything in a team."
+    tags:
+      - tool
+
+  - title: "Getting Started With Test-kitchen"
+    url: http://blog.nistu.de/2013/09/21/getting-started-with-test-kitchen
+    pubdate: sep 21
+    comment: "An environment for testing Chef recipes."
+    tags:
+      - tool
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Explore Your Data with Elasticsearch"
+    url: "http://www.youtube.com/watch?v=UNsDUNWRWzg"
+    duration: 18m
+    pubdate: sep 20
+    comment: "Quick presentation of what is elasticsearch."
+    tags:
+      - tool
+
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 66"
+    url: https://learn.thoughtbot.com/giantrobots/66
+    duration: 40m
+    pubdate: sep 16
+    comment: "With Anthony Eden about DNSimple, programming languages and code retreats."
+    tags:
+      - rb
+
+  - title: Ruby5 403
+    url: http://ruby5.envylabs.com/episodes/439-episode-403-september-17th-2013
+    duration: 5m
+    pubdate: sep 17
+    comment: "rails env, onebox, shortcode, ruby 2.1, postgres_ext, ruby tdd and bdd."
+    tags:
+      - rb
+
+  - title: NodeUp 52
+    url: http://nodeup.com/fiftytwo
+    duration: 1h18
+    pubdate: sep 18
+    comment: "Node Binary compatibility."
+    tags:
+      - js
+
+  - title: RubyRogues 123
+    url: http://rubyrogues.com/123-rr-rom-with-piotr-solnica/
+    duration: 1h08
+    pubdate: sep 18
+    comment: "ROM (Ruby object mapper) with Piotr Solnica."
+    tags:
+      - rb
+
+  - title: TheChangelog 104
+    url: http://5by5.tv/changelog/104
+    duration: 49m
+    pubdate: sep 20
+    comment: "Kickstarting Espruino with Gordon Williams."
+    tags:
+      - tool
+
+  - title: Ruby5 404
+    url: http://ruby5.envylabs.com/episodes/440-episode-404-september-20th-2013
+    duration: 6m
+    pubdate: sep 20
+    comment: "explain_shell, gsub, hexpress, capybara2 and jquery, MRI GC settings, Rconsole."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 076
+    url: http://javascriptjabber.com/076-jsj-meteor-js-with-marcus-phillips-and-fred-zirdung/
+    duration: 50m
+    pubdate: sep 20
+    comment: "Meteor.js with Marcus Phillips and Fred Zirdung."
+    tags:
+      - js
+

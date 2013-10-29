@@ -1,0 +1,266 @@
+---
+edition: "037"
+pubdate: "oct 20th 2013"
+edito:
+  "Last week I played a bit with <a href=\"http://cartodb.com\">cartodb</a> to make a <a href=\"http://cdb.io/GZM0Bv\">map or subscribers</a> from the csv export from mailchimp. The result is pretty neat. About the news, this week we get a lot of links to the recent ruby and rails confs, and a lot of more things."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: HTML5 Websites For Inspiration
+    url: "http://designbeep.com/2013/10/18/21-fresh-html5-websites-inspiration/"
+    comment: "21 websites with innovative design."
+
+  - title: Squishy Earth
+    url: "http://www.byronknoll.com/earth.html"
+    comment: "A pretty funny physics experiment using hammer.js. Pretty good reactivity."
+
+  - title: Generator Redux
+    url: "https://www.shadertoy.com/view/lsXGWl"
+    comment: "291 lines of WebGL shader code."
+
+  - title: Design Jargon Bullshit
+    url: "http://designjargonbullshit.com/"
+    comment: "Quotes from designers that like to use words (too much)."
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: "Slant"
+    url: "http://www.slant.co/"
+    comment: "Looks a bit like stackoverflow but more focused on making points about generic questions."
+    tags:
+      - tool
+
+  - title: "Generate Data"
+    url: "http://www.generatedata.com/"
+    comment: "A tool to generate random data files for testing in your apps."
+    tags:
+      - tool
+
+  - title: "Free programming books"
+    url: "https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md"
+    comment: "A giant list of free programming books."
+    tags:
+      - tool
+
+  - title: "Wripe"
+    url: "https://wri.pe/"
+    comment: "An online notepad that looks promising."
+    tags:
+      - tool
+
+  - title: "Workman Keyboard Layout"
+    url: "http://www.workmanlayout.com/blog/"
+    comment: "QWERTY is not the only way."
+    tags:
+      - tool
+
+  - title: "Send to dropbox"
+    url: "https://sendtodropbox.com/"
+    comment: "A way to send files to your dropbox via mail."
+    tags:
+      - tool
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Rails 4.0.1rc1
+    url: "http://weblog.rubyonrails.org/2013/10/17/Rails-4-0-1-rc1-has-been-released/"
+    comment: "A whole lot of bugfixes, plus speed improvements."
+    tags:
+      - rb
+
+  - title: Rails 3.2.15
+    url: "http://weblog.rubyonrails.org/2013/10/16/Rails-3-2-15-has-been-released/"
+    comment: "This is a security release related to action mailer, but with also some bugfixes."
+    tags:
+      - rb
+
+  - title: Mocoso
+    url: "https://github.com/frodsan/mocoso"
+    comment: "Another stub & mock library for Ruby."
+    tags:
+      - rb
+
+  - title: Dropzone
+    url: "http://www.dropzonejs.com/"
+    comment: "Drag'n'drop file uploads with image previews."
+    tags:
+      - js
+
+  - title: Whipped Cream
+    url: "https://github.com/justincampbell/whipped-cream"
+    comment: "A tool for creating web servers for raspberry PI."
+    tags:
+      - rb
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "The Unexpected Outcomes Of Code Review"
+    url: "http://blog.codeclimate.com/blog/2013/10/09/unexpected-outcomes-of-code-reviews/"
+    comment: "Find out why the value of code review is probably not what you expect."
+    pubdate: oct 09
+    tags:
+      - tool
+
+  - title: "Adding search to Rails apps with Elasticsearch"
+    url: "https://shellycloud.com/blog/2013/10/adding-search-and-autocomplete-to-a-rails-app-with-elasticsearch"
+    comment: "A fast and easy way to add search to your Rails application with Elasticsearch abd Searchkick."
+    pubdate: oct 10
+    tags:
+      - rb
+
+  - title: "Threads in Ruby"
+    url: "http://www.sitepoint.com/threads-ruby/"
+    comment: "Explanation and examples around ruby threads."
+    pubdate: oct 14
+    tags:
+      - rb
+
+  - title: "Ember Components – Reusable Building Blocks"
+    url: "http://flippinawesome.org/2013/10/14/ember-components-reuseable-building-blocks-for-your-application/"
+    comment: "Review on how Ember.js approaches the web component principles."
+    pubdate: oct 14
+    tags:
+      - js
+
+  - title: "ActiveModel::Serializers Rewrite"
+    url: "http://blog.wyeworks.com/2013/10/15/active_model_serializers_rewrite/"
+    comment: "What's next in upcoming ActiveModel::Serializer 0.9."
+    pubdate: oct 15
+    tags:
+      - rb
+
+  - title: "Communicating Animation Ideas"
+    url: "http://jesseddy.com/blog/2013/10/communicating-animation-ideas/"
+    comment: "Review of some tools that can help bringing animations to your interfaces."
+    pubdate: oct 16
+    tags:
+      - mobile
+
+  - title: "10 Quick Ruby Tricks"
+    url: "http://www.trevormckendrick.com/10-ruby-tricks/"
+    comment: "Some nice tricks about badly known ruby syntaxes."
+    pubdate: oct 17
+    tags:
+      - rb
+
+  - title: "How to prevent FOUC on your websites"
+    url: "http://www.techrepublic.com/blog/web-designer/how-to-prevent-flash-of-unstyled-content-on-your-websites/"
+    comment: "Discover ways to stop Flash of Unstyled Content (FOUC) from occurring on your sites."
+    pubdate: oct 18
+    tags:
+      - css3
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Windy city Railsconf 2013"
+    url: "http://www.windycityrails.org/videos/2013/"
+    comment: "Check those out, there are amazing speakers."
+    duration: 19 videos
+    tags:
+      - rb
+
+  - title: "Gogaruco 2013"
+    url: "http://www.confreaks.com/events/gogaruco2013"
+    comment: "Check those out, there are amazing speakers."
+    pubdate: oct 09
+    duration: 21 videos
+    tags:
+      - rb
+
+  - title: "Nickel city rubyconf 2013"
+    url: "http://www.confreaks.com/events/nickelcityruby2013"
+    comment: "A couple of presentations."
+    pubdate: oct 11
+    duration: 2 videos
+    tags:
+      - rb
+
+  - title: "Rocky Mountain rubyconf 2013"
+    url: "http://www.confreaks.com/events/rockymountainruby2013"
+    comment: "The 4th rubyconf in boulder."
+    pubdate: oct 12
+    duration: 4 videos
+    tags:
+      - rb
+
+  - title: "Chef Fundamentals Webinar Series "
+    url: "http://www.youtube.com/watch?v=yh9osPQA_-k"
+    comment: "First module of an Opscode <a href='http://www.opscode.com/blog/2013/10/16/chef-fundamentals-webinar-series-starts-tomorrow/'>webinar about Chef</a>, should last 6 weeks."
+    pubdate: oct 17
+    duration: 40m
+    tags:
+      - rb
+
+  - title: "Command line apps"
+    url: "http://build-podcast.com/command-line-apps/"
+    comment: "Examples of command line apps with node (commander) and ruby (thor)."
+    pubdate: oct 19
+    duration: 32m
+    tags:
+      - rb
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 70"
+    url: https://learn.thoughtbot.com/giantrobots/70
+    duration: 40m
+    pubdate: oct 14
+    comment: "With Jeff Atwood about Discourse, forum software, and soylent."
+    tags:
+      - rb
+
+  - title: Ruby5 410
+    url: http://ruby5.envylabs.com/episodes/447-episode-411-october-15th-2013
+    duration: 7m
+    pubdate: oct 15
+    comment: "refactor, shrimp, travis, ruby stack, cookies."
+    tags:
+      - rb
+
+  - title: RubyRogues 127
+    url: http://rubyrogues.com/127-rr-erik-michaels-ober/
+    duration: 1h37
+    pubdate: oct 16
+    comment: "Discussion about general aspects of ruby and gems development."
+    tags:
+      - rb
+
+  - title: The Changelog 108
+    url: http://5by5.tv/changelog/108
+    duration: 56m
+    pubdate: oct 16
+    comment: "Exercism.io with Katrina Owen."
+    tags:
+      - rb
+
+  - title: Ruby5 412
+    url: http://ruby5.envylabs.com/episodes/448-episode-412-october-18th-2013
+    duration: 6m
+    pubdate: oct 18
+    comment: "Rubinius X, activemodel serializer, parallel test with docker, angularjs, rails.env."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 080
+    url: http://javascriptjabber.com/080-jsj-impact-js-with-dominic-szablewski/
+    duration: 58m
+    pubdate: oct 18
+    comment: "Impact.js with Dominic Szablewski."
+    tags:
+      - js

@@ -1,0 +1,236 @@
+---
+edition: "026"
+pubdate: "aug 4th 2013"
+edito:
+  "This week I changed job and also my hat. I became a fulltime system administrator. It may have some consequences on the green ruby publication, because I am switching gears. Hopefully we will have a more contributive platform very soon. But in the while, feel free to send me links to help compensate. On another hand, I'm thinking about making a new publication about devops. It's just because I use publication as a way to self-hack myself into more structured organization of my awareness of what happens around. Like a public bookmarking, in some ways. More news about it next week..."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: 2013 Web Design Trends
+    url: "http://brolik.com/blog/2013-web-design-trends/"
+    comment: "A list of what the web looks like this year."
+    pubdate: aug 1
+    tags:
+      - web
+
+  - title: Kitchen prague
+    url: "http://www.kitchenprague.com/en/"
+    comment: "Beautiful design with an interesting navigation."
+    tags:
+      - web
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: Open source Report Card
+    url: "http://osrc.dfm.io/"
+    comment: "A textual analysis of your github profile."
+    tags:
+      - tool
+
+  - title: SVGeneration
+    url: "http://www.svgeneration.com/"
+    comment: "An online tool to generate svg backgrounds, with easy edit of parameters."
+    tags:
+      - html5
+
+  - title: Exercism
+    url: "http://exercism.io/"
+    comment: "A cool tool by Katrina for practice and crowd-reviews."
+    tags:
+      - tool
+
+  - title: Developer excuses
+    url: "http://developerexcuses.com/"
+    comment: "Random generation of an excuse for anything."
+    tags:
+      - tool
+
+  - title: ascii.io
+    url: "http://ascii.io/"
+    comment: "record and share terminal sessions."
+    tags:
+      - tool
+
+  - title: Rollbar
+    url: "http://rollbar.com/"
+    comment: "yet another cloud error viewer."
+    tags:
+      - tool
+
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Bootstrap 3-rc1
+    url: http://blog.getbootstrap.com/2013/07/27/bootstrap-3-rc1/
+    comment: "The version 3 of this over-popular css framework is out in rc state. Feels like it's following the flat UI trend now."
+    tags:
+      - css3
+
+  - title: ember patch
+    url: "https://groups.google.com/forum/#!topic/ember-security/dokLVwwxAdM"
+    comment: "A potential XSS exploit on Ember.js and a provided patch."
+    tags:
+      - js
+
+  - title: git-deliver
+    url: "https://github.com/arnoo/git-deliver"
+    comment: "Delivery system based on git push and ssh."
+    tags:
+      - rb
+
+  - title: psd.rb
+    url: "http://layervault.tumblr.com/post/56891876898/psd-rb"
+    comment: "A ruby lib to read photoshop files (!)."
+    tags:
+      - rb
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "SSLError and Rubyist, sitting in a tree"
+    url: http://mislav.uniqpath.com/2013/07/ruby-openssl/
+    pubdate: jul 28
+    comment: "A pretty good explanation of how SSL verification and certificates work."
+    tags:
+      - rb
+
+  - title: "10 Things You Can Do With EPF in Ember"
+    url: http://codebrief.com/2013/07/10-things-you-can-do-with-epf/
+    pubdate: jul 28
+    comment: "Details about this serious alternative to Ember-data abstraction."
+    tags:
+      - js
+
+  - title: "Animated line drawing in SVG"
+    url: http://jakearchibald.com/2013/animated-line-drawing-svg/
+    pubdate: jul 29
+    comment: "Some SVG tricks, anda bunch of examples in the comments thread."
+    tags:
+      - html5
+
+  - title: "Optimizing images with a bash script"
+    url: http://hugogiraudel.com/2013/07/29/optimizing-with-bash/
+    pubdate: jul 29
+    comment: "An interesting drive-through how to write an elaborate bash script."
+    tags:
+      - tool
+
+  - title: "Build a Port Scanner in Ruby"
+    url: http://rubysource.com/build-a-port-scanner-in-ruby/
+    pubdate: jul 29
+    comment: "Tutorial about manipulation of sockets with some celluloid actors."
+    tags:
+      - rb
+
+  - title: "Changing History with Git"
+    url: http://flippinawesome.org/2013/07/29/changing-history-with-git/
+    comment: "Some tricks for manipulating git history."
+    pubdate: jul 29
+    tags:
+      - rb
+
+  - title: "Dynamic super-overridable methods in Ruby"
+    url: http://thepugautomatic.com/2013/07/dsom/
+    comment: "Dynamic super-overridable methods in Ruby (solution for method override issue in rails' dynamic attributes method)."
+    pubdate: jul 31
+    tags:
+      - rb
+
+  - title: "Raspberry Pi or BeagleBone Black"
+    url: http://makezine.com/magazine/how-to-choose-the-right-platform-raspberry-pi-or-beaglebone-black/
+    pubdate: aug 1
+    comment: "Detailled comparison between those 2 makers card-puters."
+    tags:
+      - tool
+
+  - title: "7 JavaScript Basics Many Developers Aren't Using (Properly)"
+    url: http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly
+    pubdate: aug 2
+    comment: "Basics with js code example and patterns."
+    tags:
+      - js
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "JsConf 2013"
+    url: http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx#jsconf2013
+    pubdate: jul 29
+    duration: 8 videos
+    comment: "This week the jsconf 2013 video have been put online."
+    tags:
+      - js
+
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Git minutes 18"
+    url: http://episodes.gitminutes.com/2013/07/gitminutes-18-tair-and-tero-from-deveo.html
+    duration: 56m
+    pubdate: jul 28
+    comment: "Tair and Tero from Deveo."
+    tags:
+      - tool
+
+  - title: "Giant robots 59"
+    url: http://learn.thoughtbot.com/podcast/59
+    duration: 26m
+    pubdate: jul 29
+    comment: "With thoughtbot CTO Joe Ferris about the technical interview process at thoughtbot."
+    tags:
+      - rb
+
+  - title: Ruby5 390
+    url: http://ruby5.envylabs.com/episodes/426-episode-390-july-30th-2013
+    duration: 6m
+    pubdate: jul 30
+    comment: "subclassing core, n+1, rubyprize, flynn, ruby warrior."
+    tags:
+      - rb
+
+  - title: RubyRogues 116
+    url: http://rubyrogues.com/116-rr-non-rails-projects
+    duration: 1h20
+    pubdate: jul 31
+    comment: "Non-rails projects."
+    tags:
+      - rb
+
+  - title: NodeUp 50
+    url: http://nodeup.com/fifty
+    duration: 1h41
+    pubdate: aug 2
+    comment: "About node 0.11."
+    tags:
+      - js
+
+  - title: Ruby5 391
+    url: http://ruby5.envylabs.com/episodes/427-episode-391-august-2nd-2013
+    duration: 5m
+    pubdate: aug 2
+    comment: "vimgenius, screenshots, psd.rb, nsa panel, maildown, exercism.io."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 069
+    url: http://javascriptjabber.com/069-jsj-the-application-cache-with-jake-archibald/
+    duration: 51m
+    pubdate: aug 2
+    comment: "The Application Cache with Jake Archibald."
+    tags:
+      - js
+

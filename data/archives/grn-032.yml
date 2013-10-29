@@ -1,0 +1,226 @@
+---
+edition: "032"
+pubdate: "sep 15th 2013"
+edito:
+  "As announced previously, there is more and more devops thing in my scope. Not much posts this week, but a bunch of podcasts. Docker and go are really good fun. Hey I still love ruby, but golang recently got a lot of my attention."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Typographic Posters
+    url: "http://www.typographicposters.com/"
+    comment: "A neat collection of posters that use typogray as a graphic basis."
+
+  - title: Phonebloks
+    url: "http://www.phonebloks.com/"
+    comment: "Okay it's absolutely not in the scope, but I really love this phone idea."
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: DockerForge
+    url: "https://github.com/dockerforge"
+    comment: "A github repo for sharing docker tools."
+    tags:
+      - tool
+
+  - title: Free Vector Maps
+    url: "https://www.freevectormaps.com/"
+    comment: "A colection of royalty free vector geographic maps."
+    tags:
+      - tool
+
+  - title: GitHubReminder
+    url: "https://githubreminder.org/signin"
+    comment: "A reminder about your starred projects on Github."
+    tags:
+      - tool
+
+  - title: Espruino
+    url: "http://www.kickstarter.com/projects/48651611/espruino-javascript-for-things"
+    comment: "A new tiny-board subtitled: javascript for things."
+    tags:
+      - js
+
+  - title: "Dungeons & Developers"
+    url: "http://www.dungeonsanddevelopers.com/"
+    comment: "Funny D&D character sheet based on web developers skills."
+    tags:
+      - web
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Animo.js
+    url: "http://labs.bigroomstudios.com/libraries/animo-js"
+    comment: "A powerful little tool for managing CSS animations."
+    tags:
+      - js
+
+  - title: Phusion Passenger
+    url: "http://blog.phusion.nl/2013/09/11/debian-and-ubuntu-packages-for-phusion-passenger/"
+    comment: "Phusion now ships passenger as .deb packages. Upgrades gonna be easier now"
+    tags:
+      - rb
+
+  - title: Gitlab 6.0
+    url: "http://blog.gitlab.org/gitlab-6-dot-0-released/"
+    comment: "This open source clone of github gets a shiny new major version ready."
+    tags:
+      - tool
+
+  - title: Coder for raspberry PI
+    url: "http://googlecreativelab.github.io/coder/"
+    comment: "An interesting project, targeted at teaching the web using a raspberry PI."
+    tags:
+      - web
+
+  - title: Hermit
+    url: "http://pcaro.es/p/hermit/"
+    comment: "A font for programmers, by a programmer."
+    tags:
+      - tool
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "Five Helpful Tips When Using RequireJS"
+    url: http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs
+    pubdate: sep 10
+    comment: "Require.js is more and more popular, this article unveils a fea tips about it."
+    tags:
+      - js
+
+  - title: "CSS Length Explained"
+    url: https://hacks.mozilla.org/2013/09/css-length-explained/
+    pubdate: sep 10
+    comment: "A dive into how sizes are measured in css and why."
+    tags:
+      - css3
+
+  - title: "Managing Secrets With Chef Vault"
+    url: http://jtimberman.housepub.org/blog/2013/09/10/managing-secrets-with-chef-vault/
+    pubdate: sep 10
+    comment: "Details about the chef-vault gem for managing passwords and keys in chef."
+    tags:
+      - tool
+
+  - title: "10 Terrific Time-Saving CSS Cleanup Tools"
+    url: http://www.sitepoint.com/terrific-time-saving-css-tools/
+    pubdate: sep 12
+    comment: "A list of great tools for css housekeeping."
+    tags:
+      - css3
+
+  - title: "A Comparison of Remote Pairing Tools"
+    url: http://spin.atomicobject.com/2013/09/12/remote-pairing-tools/
+    pubdate: sep 12
+    comment: "Comparison between skype, wemux, chrome remote desktop for remote pairing."
+    tags:
+      - tool
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Ruby Tapas freebie: enumerator"
+    url: "http://devblog.avdi.org/2013/09/10/rubytapas-freebie-enumerator/"
+    duration: 4m
+    pubdate: sep 10
+    comment: "Quick presentation on the enumerator from ruuby core librairies."
+    tags:
+      - rb
+
+  - title: "Devops culture traits"
+    url: "http://dev2ops.org/2013/09/john-willis-notes-notable-devops-culture-traits/"
+    duration: 59m
+    pubdate: sep 10
+    comment: "Cool talk about company culture, not only about devops."
+    tags:
+      - tool
+
+  - title: "Restructuring Rails"
+    url: "http://www.youtube.com/watch?v=NtPDWEJ34xE"
+    duration: 35m
+    pubdate: sep 15
+    comment: "A refactoring story at boston.rb."
+    tags:
+      - tool
+
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 65"
+    url: https://learn.thoughtbot.com/giantrobots/65
+    duration: 38m
+    pubdate: sep 09
+    comment: "With Chris Savage and Brendan Schwartz about Wistia."
+    tags:
+      - rb
+
+  - title: "DevOps cafe 41"
+    url: http://devopscafe.org/show/2013/9/9/devops-cafe-episode-41.html
+    duration: 38m
+    pubdate: sep 09
+    comment: "With Dave Mangot from Salesforce about DevOps, organizational design, and toolchain choices."
+    tags:
+      - tool
+
+  - title: "Coder Radio 66"
+    url: http://www.jupiterbroadcasting.com/42767/docker-all-the-things-cr-66/
+    duration: 45m
+    pubdate: sep 09
+    comment: "With Andy and Ben from Dotcloud about the future of docker and a bit about go."
+    tags:
+      - tool
+
+  - title: Ruby5 401
+    url: http://ruby5.envylabs.com/episodes/437-episode-401-september-10th-2013
+    duration: 7m
+    pubdate: sep 10
+    comment: "Kochiku, scaling rails, passenger, ruby off rails, postgresql, seeing is believing."
+    tags:
+      - rb
+
+  - title: RubyRogues 122
+    url: http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/
+    duration: 1h12
+    pubdate: sep 11
+    comment: "Daemons with Kenneth Kalmer. Very good one."
+    tags:
+      - rb
+
+  - title: TheChangelog 103
+    url: http://5by5.tv/changelog/103
+    duration: 1h
+    pubdate: sep 13
+    comment: "GitLab and open source with Sytse Sijbrandij."
+    tags:
+      - tool
+
+  - title: Ruby5 402
+    url: http://ruby5.envylabs.com/episodes/438-episode-402-september-13th-2013
+    duration: 6m
+    pubdate: sep 13
+    comment: "Ruboto irb, railscasts, polyglot, rubygems, rails load path, yokozuna, ruby2600."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 075
+    url: http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/
+    duration: 57m
+    pubdate: sep 13
+    comment: "Maintainable JavaScript with Nicholas Zakas."
+    tags:
+      - js
+

@@ -1,0 +1,270 @@
+---
+edition: "038"
+pubdate: "oct 27th 2013"
+edito:
+  "Last week I had some problems with my podcast client for android,. So I got back to gPodder and found out Listen-up. This app that is really neat. You can check my <a href=\"https://gpodder.net/user/mose/subscriptions\">gPodder listing</a>."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Metaball soup
+    url: "http://oos.moxiecode.com/js_webgl/metaballs_soup/"
+    comment: "If you loved the sqwishy earth of last week, you will also love that soup."
+
+  - title: A interactive resume
+    url: "http://www.rleonardi.com/interactive-resume/"
+    comment: "Designer resume can be mind blowing, this one uses scrolling for a mario effect."
+
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: "Metabright"
+    url: "http://www.metabright.com/"
+    comment: "A site for coders to complete challenges, raise reputation, and eventually find jobs."
+    tags:
+      - tool
+
+  - title: "CodeClimate for JS"
+    url: "http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/"
+    comment: "The famous ruby code thermometer now opens to js."
+    tags:
+      - tool
+
+  - title: "Geeklist git"
+    url: "http://git.geekli.st/"
+    comment: "Geeklist opened a free git repo hosting, powered by gitlab."
+    tags:
+      - tool
+
+  - title: "DoCapture"
+    url: "http://remotejobs.io/"
+    comment: "A job website focused on remote opportunities."
+    tags:
+      - tool
+
+  - title: "RemoteJobs"
+    url: "http://skakunmedia.com/docapture/"
+    comment: "Free, quick, high-res, website screen captures in the exact size you need."
+    tags:
+      - tool
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Font Awesome 4
+    url: "http://fontawesome.io/"
+    comment: "Last release of that css font lib, faster and with more icons."
+    tags:
+      - css3
+
+  - title: Mean
+    url: "http://www.mean.io/"
+    comment: "MEAN (Mongo, Express, Angular, Node) stack Boilerplate."
+    tags:
+      - js
+
+  - title: HTML5 admin
+    url: "http://www.html5admin.com/"
+    comment: "A bootstrap css theme for admin backends."
+    tags:
+      - css
+
+  - title: post_json
+    url: "https://github.com/webnuts/post_json"
+    comment: "PostJson is everything you expect of ActiveRecord and PostgreSQL, with the added power and dynamic nature of a document database."
+    tags:
+      - rb
+
+  - title: Snap.svg
+    url: "http://snapsvg.io/"
+    comment: "The JavaScript SVG library for the modern web."
+    tags:
+      - js
+
+  - title: Happy Rhino
+    url: "http://friendcode.github.io/hr.js/"
+    comment: "Another client-side web application framework."
+    tags:
+      - js
+
+  - title: Lime
+    url: "https://github.com/quarnster/lime"
+    comment: "A ST2 compatible editor written in go, python, QT. Still in progress but promising."
+    tags:
+      - go
+
+  - title: Serf
+    url: "http://www.serfdom.io/"
+    comment: "A service discovery tool using the gossip protocol, for devops."
+    tags:
+      - go
+
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "Inside GitHub's Super-Lean Management Strategy"
+    url: "http://www.fastcolabs.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation"
+    comment: "A long article about Github management model and how it drives innovation"
+    pubdate: oct 18
+    tags:
+      - web
+
+  - title: "Getting to Know Pluck and Select"
+    url: "http://gavinmiller.io/2013/getting-to-know-pluck-and-select/"
+    comment: "For improving performance with ActiveRecords, 2 useful methods."
+    pubdate: oct 20
+    tags:
+      - rb
+
+  - title: "Page caching with Rails 4"
+    url: "http://www.rubytutorial.io/page-caching-with-rails-4"
+    comment: "The built-in page caching has been extracted to a separate gem in Rails 4."
+    pubdate: oct 20
+    tags:
+      - rb
+
+  - title: "Ruby 2.0: respond_to?"
+    url: "http://dev.af83.com/2013/10/21/ruby-2-0-respond-to.html"
+    comment: "Details about the change in respomd_to? that in ruby 2 only works on public methods."
+    pubdate: oct 21
+    tags:
+      - rb
+
+  - title: "OS X 10.9 Mavericks: The Ars Technica Review"
+    url: "http://arstechnica.com/apple/2013/10/os-x-10-9/"
+    comment: "Very detailled review of what changes in the new mac system."
+    pubdate: oct 23
+    tags:
+      - tool
+
+  - title: "Easy database migration using Taps(-taps)"
+    url: "https://shellycloud.com/blog/2013/10/easy-database-migration-using-taps"
+    comment: "Want to migrate from mysql to postgresql ? Taps-taps !"
+    pubdate: oct 24
+    tags:
+      - rb
+
+  - title: "A/B Testing with Split in Ruby on Rails"
+    url: "http://grinnick.com/posts/a-b-testing-with-split-in-ruby-on-rails"
+    comment: "Split is a great Ruby gem which you can use to run A/B tests in any Rack-based project like Sinatra or Rails."
+    pubdate: oct 24
+    tags:
+      - rb
+
+  - title: "12 Awesome CSS3 Features"
+    url: "http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/"
+    comment: "A set of css3 features that finaly work on all (recent) browsers."
+    pubdate: oct 25
+    tags:
+      - css3
+
+  - title: "CSS3 Inheritance Tips and Tricks"
+    url: "http://www.sitepoint.com/css3-inheritance-tips-tricks/"
+    comment: "There are a few new inheritance features in CSS3 you may not be aware of."
+    pubdate: oct 25
+    tags:
+      - css3
+
+  - title: "Fontello: The Past and Future of the Icon Font Service"
+    url: "http://css-tricks.com/fontello-past-future-icon-font-service/"
+    comment: "The story behind fontello.com."
+    pubdate: oct 25
+    tags:
+      - css3
+
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Sass Bites #12 - Introduction to Compass"
+    url: "https://www.youtube.com/watch?v=iLcp5q59cYw"
+    comment: "This weekly screencast shares tips about SASS, check <a href=\"https://www.youtube.com/user/sassbites\">previous episodes</a> too."
+    duration: 17m
+    pubdate: oct 24
+    tags:
+      - css
+
+  - title: "Baruco 29013 ruby conf"
+    url: "https://www.youtube.com/channel/UCFlDMr_d8zRuOWCcKH7LpuQ?feature=watch"
+    comment: "The videos from barcelona rubyconf are available this week."
+    duration: 10 videos
+    tags:
+      - rb
+
+  - title: "RealTime Conf 2013"
+    url: "http://2013.realtimeconf.com/video/"
+    comment: "A very creative conf, featuring an amazing storytelling pattern with a very geeky taste."
+    duration: 32 videos
+    tags:
+      - tool
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 71"
+    url: https://learn.thoughtbot.com/giantrobots/71
+    duration: 40m
+    pubdate: oct 21
+    comment: "Josh Clayton and Ben Orenstein interview each other about their managing director positions."
+    tags:
+      - rb
+
+  - title: "Git Minutes #24"
+    url: http://episodes.gitminutes.com/2013/10/gitminutes-24-zoran-zaric-on-backups.html
+    duration: 1h03
+    pubdate: oct 21
+    comment: "Zoran Zaric on Backups with Bup (git-based backup tool)."
+    tags:
+      - tool
+
+  - title: Ruby5 413
+    url: http://ruby5.envylabs.com/episodes/449-episode-413-october-22nd-2013
+    duration: 5m
+    pubdate: oct 22
+    comment: "rails releases, upgrafing to rails 4, migrant, smallest distributed system, modelling user sessions."
+    tags:
+      - rb
+
+  - title: RubyRogues 128
+    url: http://rubyrogues.com/128-rr-book-club-confident-ruby-with-avdi-grimm/
+    duration: 1h16
+    pubdate: oct 23
+    comment: "Book Club: Confident Ruby with Avdi Grimm."
+    tags:
+      - rb
+
+  - title: Ruby5 414
+    url: http://ruby5.envylabs.com/episodes/450-episode-414-october-25th-2013
+    duration: 5m
+    pubdate: oct 25
+    comment: "casting, autoprefixer, ivar_encapsulation, termit, ruby on mavericks."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 081
+    url: http://javascriptjabber.com/081-jsj-promises-for-testing-async-javascript-with-pete-hodgson/
+    duration: 50m
+    pubdate: oct 25
+    comment: "Promises for Testing Async JavaScript with Pete Hodgson."
+    tags:
+      - js
+
+  - title: The Changelog 109
+    url: http://5by5.tv/changelog/109
+    duration: 50m
+    pubdate: oct 26
+    comment: "Open Karma with Justine Arreche and Sebastian Gräßl. Mating coders with designers. Keep an eye on that one."
+    tags:
+      - tool

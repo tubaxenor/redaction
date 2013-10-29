@@ -1,0 +1,244 @@
+---
+edition: "029"
+pubdate: "aug 25th 2013"
+edito:
+  "This week there is a lot of videos from Lone Star and Steel City. Also, I give at the very end a list of many podcasts, not really related to ruby, but can be of interest."
+
+topics:
+
+- title: Look
+  baseline:
+    "Examples of UI/UX, graphic performance, web design and flashy things."
+  links:
+
+  - title: Cyclemon
+    url: "http://cyclemon.com/"
+    comment: "Funny collection of bicycles."
+    tags:
+      - web
+
+- title: Use
+  baseline:
+    "Web applications, resources and tools, available for making our life easier or funnier."
+  links:
+
+  - title: Aboard
+    url: "http://aboard.io/"
+    comment: "Combine some RSS feeds and sail the seas of inspiration."
+    tags:
+      - tool
+
+  - title: Codassium
+    url: "http://codassium.com/"
+    comment: "An online service to conduct remote coder interviews."
+    tags:
+      - tool
+
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Sassaparilla
+    url: "http://sass.fffunction.co/"
+    comment: "A css framework on compass focused on responsive designs."
+    tags:
+      - css3
+
+  - title: Tern
+    url: "http://ternjs.net/"
+    comment: "Stand-alone code-analysis engine for JavaScript, with plugins for vim, emacs, ST."
+    tags:
+      - js
+
+  - title: NProgress.js
+    url: "http://ricostacruz.com/nprogress/"
+    comment: "A nanoscopic progress bar. Featuring realistic trickle animations to convince your users that something is happening."
+    tags:
+      - js
+
+  - title: Steroids
+    url: "http://www.appgyver.com/steroids"
+    comment: "On the top of phonegap, but guilding thing in an hybrid way, like semi-native and faster."
+    tags:
+      - mobile
+
+  - title: Brick
+    url: "http://mozilla.github.io/brick/"
+    comment: "UI component for the web by Mozilla."
+    tags:
+      - web
+
+  - title: Apropos
+    url: "https://github.com/square/apropos"
+    comment: "A compass extension for handling responsive image sizes."
+    tags:
+      - css3
+
+  - title: IEvms
+    url: "https://github.com/xdissent/ievms"
+    comment: "Debugging js/css for IE is hell, this can help by setting up virtual machines for each version."
+    tags:
+      - tool
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+  - title: "Decoupling Your HTML, CSS, and JavaScript"
+    url: http://philipwalton.com/articles/decoupling-html-css-and-javascript/
+    pubdate: aug 17
+    comment: "Some good practices about building web sites."
+    tags:
+      - html5
+
+  - title: "Running Headless Selenium with Chrome"
+    url: http://www.chrisle.me/2013/08/running-headless-selenium-with-chrome/
+    pubdate: aug 19
+    comment: "An interesting setup with chrome, selenium, and vagrant."
+    tags:
+      - js
+
+  - title: "Deliberate Git"
+    url: http://rakeroutes.com/blog/deliberate-git/
+    pubdate: aug 19
+    comment: "A textual version of a talk about git at Steel City. Lotta tips."
+    tags:
+      - js
+
+  - title: "An absolute beginner's guide to node.js"
+    url: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+    pubdate: aug 20
+    comment: "Yet another starting point to node."
+    tags:
+      - js
+
+  - title: "The Observer Pattern"
+    url: http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html
+    pubdate: aug 20
+    comment: "Building observer class from scratch."
+    tags:
+      - rb
+
+  - title: "Inconsistent Architecture"
+    url: http://www.naildrivin5.com/blog/2013/08/21/inconsistent-architecture.html
+    pubdate: aug 21
+    comment: "Interesting insight about architecture choices when building a (rails) application."
+    tags:
+      - rb
+
+  - title: "Using Ruby’s Scan Method to Transform Strings"
+    url: http://brianplexico.com/using-rubys-scan-method-to-transform-strings/
+    pubdate: aug 22
+    comment: "A tiny trick using scan on strings."
+    tags:
+      - rb
+
+  - title: "10 Interface Typos You Don’t Even Know You’re Making"
+    url: http://www.sitepoint.com/10-interface-typos-you-dont-even-know-youre-making/
+    pubdate: aug 22
+    comment: "A small lesson of proper english for UI makers."
+    tags:
+      - web
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Friendly Flying Robots with Ruby"
+    url: http://steelcityruby.confbots.com/video/72709097
+    duration: 40m
+    pubdate: aug 16
+    comment: "Jim Weirich shows how to control a drone with ruby."
+    tags:
+      - rb
+
+  - title: "Devops for the rubyist soul"
+    url: http://steelcityruby.confbots.com/video/72791610
+    duration: 30m
+    pubdate: aug 17
+    comment: "Capistrano, puppet, git, vagrant, the lessons from Braintree."
+    tags:
+      - rb
+  
+  - title: "Steel City Ruby"
+    url: http://steelcityruby.confbots.com/
+    duration: 13 videos
+    pubdate: aug 17
+    comment: "The videos from Steel city 2013 Ruby conf."
+    tags:
+      - rb
+
+  - title: "Lone Star Ruby Conf 2013"
+    url: http://www.confreaks.com/events/lonestarruby2013
+    duration: 30 videos
+    pubdate: aug 19
+    comment: "A huge collection of the talks from lone star. Like if you were there."
+    tags:
+      - rb
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 62"
+    url: https://learn.thoughtbot.com/giantrobots/62
+    duration: 32m
+    pubdate: aug 19
+    comment: "Ben speaks with Natalie Nagele and Ilya Sabanin about Wildbit, Beanstalk, and work flow."
+    tags:
+      - rb
+
+  - title: "Gitminutes #19"
+    url: http://episodes.gitminutes.com/2013/08/gitminutes-19-marcin-kuzminski-from.html
+    duration: 1h07
+    pubdate: aug 19
+    comment: "Discussion with Marcin Kuzminski, co-founder of RhodeCode, an open-source Git/Mercurial hosting provider."
+    tags:
+      - tool
+
+  - title: Ruby5 396
+    url: http://ruby5.envylabs.com/episodes/432-episode-396-august-20th-2013
+    duration: 6m
+    pubdate: aug 20
+    comment: "rails 4.1, numdler local path, multitable fulltext search predicates, strong params, ruby2 & rails4 docs, rails API best practices."
+    tags:
+      - rb
+
+  - title: RubyRogues 119
+    url: http://rubyrogues.com/119-rr-accessibility-with-brian-hogan/
+    duration: 1h17
+    pubdate: aug 21
+    comment: "Accessibility with Brian Hogan."
+    tags:
+      - rb
+
+  - title: TheChangelog 101
+    url: http://5by5.tv/changelog/101
+    duration: 1h
+    pubdate: aug 22
+    comment: "Talk with Isaac Schlueter about the origins of npm, and Node.js."
+    tags:
+      - js
+
+  - title: Ruby5 397
+    url: http://ruby5.envylabs.com/episodes/433-episode-397-august-23rd-2013
+    duration: 6m
+    pubdate: aug 23
+    comment: "ruby_identicon, observer pattern, lita, figaro, common table expressions, top 10 rails sites."
+    tags:
+      - rb
+
+  - title: Javascript Jabber 072
+    url: http://javascriptjabber.com/072-jsj-screencasts/
+    duration: 49m
+    pubdate: aug 23
+    comment: "Screencasts, how to make them."
+    tags:
+      - js
+
+  - title: More podcasts
+    comment: "I was asked recently if I was really listening to all the podcasts I list here. The answer is yes, and that's only a subgroup of all what I listen to. I got a bus commute (almost) everyday of 2 hours and I don't listen to music (ever).<ul><li><a href=\"http://sixgun.org/linuxoutlaws\">Linux Outlaws</a></li><li><a href=\"http://distrowatch.com/news/podcast.xml\">Distrowatch</a></li><li><a href=\"http://www.jupiterbroadcasting.com/tag/linux-action-show/\">Linux Action Show</a></li><li><a href=\"http://www.theskepticsguide.org/\">The skeptics guide to the universe</a></li><li><a href=\"http://5by5.tv/cmdspace\">Command space</a></li><li><a href=\"http://twit.tv/show/floss-weekly\">FLOSS weekly</a></li><li><a href=\"http://twit.tv/show/this-week-in-tech\">This week in tech</a></li><li><a href=\"http://freakonomics.com/tag/freakonomics-podcast/\">Freakonomics</a></li><li><a href=\"http://kernelpanicoggcast.net/\">Kernel panic</a></li><li><a href=\"http://parlonsruby.com/\">Parlons ruby (fr)</a></li></ul>"
+    tags:
+      - tool
+

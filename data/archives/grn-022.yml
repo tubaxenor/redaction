@@ -1,0 +1,238 @@
+---
+edition: "022"
+pubdate: "jul 7th 2013"
+edito:
+  "There is some activity happening for Green Ruby on <a href=\"http://github.com/greenruby\">github</a>. We are preparing a collaborative newsroom or something like that. Feel free to jump in if you feel like (the channel #greenruby on freenode is always open)."
+
+topics:
+
+- title: Use
+  baseline:
+    "Web applications and tools, available for making our life easier."
+  links:
+
+  - title: Github Releases
+    url: "https://github.com/blog/1547-release-your-software"
+    comment: "Another new feature on github for handling releases, pretty neat."
+    tags:
+      - tool
+
+  - title: Rails security
+    url: "http://railssecurity.com/"
+    comment: "A monthly security newsletter from Code Climate."
+    tags:
+      - rb
+
+  - title: A Free icons set
+    url: "http://sixrevisions.com/freebies/icons/free-icons-1000/"
+    comment: "Always useful to get more icons at hand (1000 free vector icons there)."
+    tags:
+      - tool
+
+  - title: Sketchplanations
+    url: "http://www.sketchplanations.com/"
+    comment: "One sketch per day in your mailbox."
+    tags:
+      - tool
+
+
+
+
+- title: Install
+  baseline: "A selection of gems or applications updated during past week."
+  links:
+
+  - title: Style-Guide-Boilerplate
+    url: https://github.com/bjankord/Style-Guide-Boilerplate
+    comment: "Making a style guide helps a lot when various people have to use same design."
+    tags:
+      - css3
+
+  - title: Hitch.js
+    url: http://www.hitchjs.com/
+    comment: "An extensible-web way to write CSS."
+    tags:
+      - js
+
+  - title: Stringer
+    url: https://github.com/swanson/stringer
+    comment: "Anti-social RSS reader (now that google reader is dead)."
+    tags:
+      - js
+
+  - title: Autobench
+    url: http://mervine.net/projects/gems/autobench
+    comment: "Gathers web metrics using phantom.js."
+    tags:
+      - rb
+
+  - title: Microformats2
+    url: https://github.com/G5/microformats2/
+    comment: "A lib to extract microformat data from web pages."
+    tags:
+      - rb
+
+  - title: Phantomflow
+    url: https://github.com/Huddle/PhantomFlow
+    comment: "User interface testing and visualisation."
+    tags:
+      - rb
+
+
+
+
+- title: Read
+  baseline: "From the blogosphere or news feeds ..."
+  links:
+
+
+  - title: "Writing javascript tests with tape"
+    url: http://www.catonmat.net/blog/writing-javascript-tests-with-tape/
+    pubdate: jun 30
+    comment: "Tape is a TAP-style testing tool in node for javascript, here used in combination with ci.testling.com"
+    tags:
+      - js
+
+  - title: "Add Rules to Stylesheets with JavaScript"
+    url: http://davidwalsh.name/add-rules-stylesheets
+    pubdate: jul 1
+    comment: "Take over CSS management within javascript world."
+    tags:
+      - js
+
+  - title: "Introducing the HTML5 FullScreen API?"
+    url: http://demosthenes.info/blog/708/Introducing-the-HTML5-FullScreen-API
+    pubdate: jul 1
+    comment: "When your web app makes sense full screen, here is the code for it."
+    tags:
+      - html5
+
+  - title: "Running RSpec tests from the browser"
+    url: http://blog.jcoglan.com/2013/07/01/running-rspec-tests-from-the-browser/
+    pubdate: jul 1
+    comment: "A demonstration of use of jstest combined with ruby rspec tests."
+    tags:
+      - js
+
+  - title: "Exploring Rack"
+    url: http://hub.tutsplus.com/tutorials/exploring-rack--net-32976
+    pubdate: jul 1
+    comment: "Good review about Rack and how to write a middleware."
+    tags:
+      - rb
+
+  - title: "9 Mind-Blowing Canvas Demos"
+    url: http://davidwalsh.name/canvas-demos
+    pubdate: jul 1
+    comment: "Amazing html5 effects, better use chrome if you really want to see everything there."
+    tags:
+      - css3
+
+  - title: "Deployment Best Practices"
+    url: https://blog.engineyard.com/2013/deployment-best-practices
+    pubdate: jul 2
+    comment: "Dome basic deployment common sense, with our personal favorite : never deploy on friday !"
+    tags:
+      - tool
+
+  - title: "Intermediate Ember Controller Concepts"
+    url: http://blog.gaslight.co/post/54512786990/intermediate-ember-controller-concepts
+    pubdate: jul 3
+    comment: "Some light on a few concepts related to Ember controllers."
+    tags:
+      - js
+
+  - title: "16 Best HTML5 Frameworks for Rapid Development"
+    url: http://codegeekz.com/best-html5-frameworks/
+    pubdate: jul 3
+    comment: "For games or for web apps, here are some html5 frameworks."
+    tags:
+      - html5
+
+  - title: "Activity Feeds Based on Redis"
+    url: http://rubysource.com/activity-feeds-based-on-redis/
+    pubdate: jul 4
+    comment: "Example of use of the redis_timeline gem in a rails app."
+    tags:
+      - rb
+
+
+
+
+
+
+
+- title: Watch
+  baseline: "Screencasts and conferences videos, or other video feeds ..."
+  links:
+
+  - title: "Building a mocking library"
+    url: http://www.youtube.com/watch?v=2aYdtS7FZJA
+    pubdate: jun 28
+    duration: 44m
+    comment: "Talk by Andy Lindeman detailling how to write a lib that does mocking. Live TDD coding."
+    tags:
+      - rb
+
+  - title: "Motion in the Middle - RubyMotion as a Gateway to iOs"
+    url: http://www.youtube.com/watch?v=MliQDCrTsNU
+    pubdate: jul 2
+    duration: 11m
+    comment: "A microtalk from Goruco about RubyMotion."
+    tags:
+      - mobile
+
+  - title: "Functional Programming and Ruby by Pat Shaughnessy "
+    url: http://www.youtube.com/watch?v=5ZjwEPupybw
+    pubdate: jul 3
+    duration: 42m
+    comment: "From Goruco again, comparison between Haskell and Ruby."
+    tags:
+      - rb
+
+
+
+- title: Listen
+  baseline: What could be heard last week ..
+  links:
+
+  - title: "Giant robots 55"
+    url: http://learn.thoughtbot.com/podcast/55
+    duration: 42m
+    pubdate: jul 1
+    comment: "The Value of Flow, with Cameron Moll."
+    tags:
+      - rb
+
+  - title: Ruby5 383
+    url: http://ruby5.envylabs.com/episodes/419-episode-383-july-2-2013
+    duration: 5m
+    pubdate: jul 2
+    comment: "One liner, better controllers, verified_double, mocking library, ready for rails 4."
+    tags:
+      - rb
+
+  - title: RubyRogues 112
+    url: http://rubyrogues.com/112-rr-community-hacks/
+    duration: 1h
+    pubdate: jul 3
+    comment: "Community Hacks, discussion about the ruby community."
+    tags:
+      - rb
+
+  - title: The Changelog 95
+    url: http://5by5.tv/changelog/95
+    duration: 1h
+    pubdate: jul 3
+    comment: "Civic hacking with Mike and Ezra at Code for America."
+    tags:
+      - tool
+
+  - title: Javascript Jabber 066
+    url: http://javascriptjabber.com/066-jsj-transitioning-to-javascript/
+    duration: 40m
+    pubdate: jul 5
+    comment: "Transitioning to JavaScript."
+    tags:
+      - js
+
